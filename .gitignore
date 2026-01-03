@@ -1,3 +1,6 @@
-main
+numbermatch
 *.o
 *.bin
+*.d
+*.history
+doc/
